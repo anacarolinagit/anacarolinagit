@@ -1,6 +1,6 @@
 ## Boas vindas!
 
-Sou Ana Carolina, estudante no quinto período de Bacharelado em Sistemas de Informação e Estagiária em desenvolvimento de software.
+Sou Ana Carolina, estudante no quinto período de Bacharelado em Sistemas de Informação e Técnica em desenvolvimento de software.
 
 #### Principais tecnologias:
 
